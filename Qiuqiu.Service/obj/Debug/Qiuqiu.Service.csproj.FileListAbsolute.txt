@@ -1,0 +1,5 @@
+c:\Users\gaoqiuling\documents\visual studio 2015\Projects\mvctest\Qiuqiu.Service\bin\Debug\Qiuqiu.Service.dll
+c:\Users\gaoqiuling\documents\visual studio 2015\Projects\mvctest\Qiuqiu.Service\bin\Debug\Qiuqiu.Service.pdb
+c:\Users\gaoqiuling\documents\visual studio 2015\Projects\mvctest\Qiuqiu.Service\obj\Debug\Qiuqiu.Service.csprojResolveAssemblyReference.cache
+c:\Users\gaoqiuling\documents\visual studio 2015\Projects\mvctest\Qiuqiu.Service\obj\Debug\Qiuqiu.Service.dll
+c:\Users\gaoqiuling\documents\visual studio 2015\Projects\mvctest\Qiuqiu.Service\obj\Debug\Qiuqiu.Service.pdb
